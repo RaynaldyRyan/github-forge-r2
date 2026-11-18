@@ -1,8 +1,8 @@
 # github-forge
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/github-core-clone-01)
-[![make.fun](https://img.shields.io/badge/built%20for-make.fun-green)](https://make.fun)
-[![join make.fun](https://img.shields.io/badge/join-make.fun-orange)](https://make.fun/r/rhhrb4xy)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/RaynaldyRyan/github-forge-r2/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/RaynaldyRyan/github-forge-r2/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A GitHub-compatible git forge in one Node process, built for the
 [make.fun bounty](https://make.fun/bounty/github-core-clone-01): git smart HTTP, REST v3,
